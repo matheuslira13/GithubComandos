@@ -30,6 +30,9 @@ git reset --no-edit +Codigo do commit que vc quer que volte ( git reset serve pa
 
 : serve junto com o push para delete um branch do repositorio remoto exemplo "git push origin :teste"
 
+-D serve para deletar um branch do repositorio local exemplo "git branch -D teste"
+
 A pasta .gitignore faz ignorar qualquer estenção ou pasta que voce não queirar no repositorio
 
 caso a tela bug tipo por exemplo git log e tem muita informção aperta a tecla Q
+
