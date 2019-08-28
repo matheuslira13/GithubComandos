@@ -24,7 +24,7 @@ git dif --name-only mostra somente os arquivos que foram modificados
 git remote add Algumacois serve para adiionar um repositorio remoto
 
 git remote mostra os repositorios remotos adicionadosgit 
-git remote -v server para ver mais detalhadamente as opções que tem entre fetch e push(fetch quando alguem faz um modificações no seu repositorio remoto e vc colocar ele no seu repositorio local e o ppush e o contrario
+git remote -v server para ver mais detalhadamente as opções que tem entre fetch e push e tbm o diretorio de origin no caso o origin (fetch quando alguem faz um modificações no seu repositorio remoto e vc colocar ele no seu repositorio local e o ppush e o contrario
 
 git reset --no-edit +Codigo do commit que vc quer que volte ( git reset serve para voltar a aquilo que foi antes do commit porem sem excluir o arquivo
 
@@ -35,6 +35,8 @@ git -pull serve para buscar do repositorio remoto e colocar no local (ele e o co
 : serve junto com o push para delete um branch do repositorio remoto exemplo "git push origin :teste"
 
 -D serve para deletar um branch do repositorio local exemplo "git branch -D teste"
+
+a opção fork dentro da plataforma github serve para voce contribuir com  outros projetos 
 
 A pasta .gitignore faz ignorar qualquer estenção ou pasta que voce não queirar no repositorio
 
