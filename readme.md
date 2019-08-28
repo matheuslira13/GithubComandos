@@ -24,5 +24,8 @@ git dif --name-only mostra somente os arquivos que foram modificados
 git remote add Algumacois serve para adiionar um repositorio remoto
 
 git remote mostra os repositorios remotos adicionadosgit 
-git remote -v server para ver mais detalhadamente as opções que tem entre fetch e push(fetch quando alguem faz um modificações no seu repositorio remoto e vc colocar ele no seu repositorio local e o ppush e o contrario)
+git remote -v server para ver mais detalhadamente as opções que tem entre fetch e push(fetch quando alguem faz um modificações no seu repositorio remoto e vc colocar ele no seu repositorio local e o ppush e o contrario
 
+A pasta .gitignore faz ignorar qualquer estenção ou pasta que voce não queirar no repositorio
+
+caso a tela bug tipo por exemplo git log e tem muita informção aperta a tecla Q
