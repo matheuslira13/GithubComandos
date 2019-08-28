@@ -1,4 +1,5 @@
 meu primeiro commit
+git init serve para inicializar um repositorio local git
 git status serve para fazer uma varedura
 
 git add read.md e um exemplo de adiona um arquivo untracked
