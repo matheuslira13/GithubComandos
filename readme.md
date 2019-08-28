@@ -17,4 +17,5 @@ git reset --mixed quase a mesma coisa que o soft porem ele volta antes de ser ad
 
 git reset --hard ele apaga tudo que foi feito e volta para o primeiro commit que voce fez (exemplo git reset --hard 2942f020f4563deda41e14ce4e7b7db58ce44679 ) esse codigo e o numero do commit que aparece cquando voce da um git log
 
-git diff mostra as atualizaões feitas da ultima fez que voce fez o commit
+git diff mostra as atualizaões feitas da ultima fez que voce fez o commit 
+git dif --name-only mostra somente os arquivos que foram modificados
