@@ -19,3 +19,9 @@ git reset --hard ele apaga tudo que foi feito e volta para o primeiro commit que
 
 git diff mostra as atualizaões feitas da ultima fez que voce fez o commit 
 git dif --name-only mostra somente os arquivos que foram modificados
+
+git remote add Algumacois serve para adiionar um repositorio remoto
+
+git remote mostra os repositorios remotos adicionadosgit 
+git remote -v server para ver mais detalhadamente as opções que tem entre fetch e push(fetch quando alguem faz um modificações no seu repositorio remoto e vc colocar ele no seu repositorio local e o ppush e o contrario)
+
