@@ -28,6 +28,8 @@ git remote -v server para ver mais detalhadamente as opções que tem entre fetc
 
 git reset --no-edit +Codigo do commit que vc quer que volte ( git reset serve para voltar a aquilo que foi antes do commit porem sem excluir o arquivo
 
+: serve junto com o push para delete um branch do repositorio remoto exemplo "git push origin :teste"
+
 A pasta .gitignore faz ignorar qualquer estenção ou pasta que voce não queirar no repositorio
 
 caso a tela bug tipo por exemplo git log e tem muita informção aperta a tecla Q
