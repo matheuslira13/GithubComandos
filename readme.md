@@ -28,6 +28,10 @@ git remote -v server para ver mais detalhadamente as opções que tem entre fetc
 
 git reset --no-edit +Codigo do commit que vc quer que volte ( git reset serve para voltar a aquilo que foi antes do commit porem sem excluir o arquivo
 
+git push- serve para mandar arquivos do repositorio local para o remoto (exemplo git push origin master)
+
+git -pull serve para buscar do repositorio remoto e colocar no local (ele e o contrariodo push exemplo git pull origin master)
+
 : serve junto com o push para delete um branch do repositorio remoto exemplo "git push origin :teste"
 
 -D serve para deletar um branch do repositorio local exemplo "git branch -D teste"
